@@ -1,5 +1,5 @@
 # yaft_2
-# pre release version !!!
+# pre-release version !!!
 
 ## Project setup
 ```
